@@ -1,0 +1,14 @@
+{
+  "name": "omid-local-server",
+  "version": "1.0.0",
+  "description": "local server to host omid js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
